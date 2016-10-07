@@ -1,0 +1,8 @@
+# Change these variables as appropriate
+LOCK_FILE=/tmp/centos_mirror_rsync_updates
+
+CENTOS_MIRROR=rsync://repos.dfw.quadranet.com/centos
+EPEL_MIRROR=rsync://mirror.lstn.net/fedora-epel
+
+TARGET_DIR=/storage/html/repos
+
