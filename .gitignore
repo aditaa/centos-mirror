@@ -1,0 +1,7 @@
+#excluudes example
+centos_exclude
+epel_exclude
+
+
+#config example
+config
