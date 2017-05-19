@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source config
+source /etc/mirror_config
 RSYNC_RETVAL=1
 
 # Number of arguments should be at least 1
